@@ -1,4 +1,5 @@
-<?php $route = "/blog.php";
+<?php include("_inc.php");
+$route = "/blog.php";
 $route = count(str_split($route));
 $url = str_split($_SERVER['REQUEST_URI']);
 $i=0; while($i < $route){
