@@ -1,4 +1,4 @@
-<?php include("_inc.php") ?>
+<?php include("_inc.php"); ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
