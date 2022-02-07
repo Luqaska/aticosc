@@ -1,6 +1,6 @@
 {
   "builds": [
     { "src": "*.php", "use": "now-php@canary" },
-    { "src": "*.md", "use": "now-php@canary" }
+    { "src": "*.png", "use": "now-php@canary" }
   ]
 }
