@@ -6,8 +6,8 @@
 <html dir="ltr" lang="es">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta name="author" content="Lucas" />
-<link rel="icon" href="sarpado.png" />
+<meta name="author" content="Luqaska" />
+<link rel="icon" href="/sarpado.png" />
 <title><?= $p ?> | ATICO.0rg.us</title>
 <style>
 
