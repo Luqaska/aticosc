@@ -9,7 +9,7 @@ if(!isset($_SESSION["logged"])){
   }else{
     die('<!DOCTYPE html><html><body><form method="POST"><input type="password" name="code"><input type="submit"><br>(Es la misma que SCCJ)</form></body></html>');
   }
-}
+}else{
 $pages_nav = [
   ["Home", "index.php"]
 ]; ?>
@@ -112,3 +112,4 @@ footer {
 	echo "$b[0]<a href=\"$element[1]\">$element[0]</a>$b[1]";
 } ?>
 </nav>
+<?php }
