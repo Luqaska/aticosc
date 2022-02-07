@@ -89,7 +89,7 @@ footer {
 </head>
 <body>
 <header>
-	<h1><a href="index.php"><img src="sarpado.png" id="sarpado" /><span id="text">ATICO<span style="font-size:medium">.0rg.us</span></span></a></h1>
+	<h1><a href="index.php"><img src="/sarpado.png" id="sarpado" /><span id="text">ATICO<span style="font-size:medium">.0rg.us</span></span></a></h1>
 </header>
 <nav>
 <?php foreach($pages_nav as $element){
