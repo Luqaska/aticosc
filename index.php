@@ -3,4 +3,4 @@
 <h2>Hola</h2>
 <p>En proceso</p>
 </main>
-<?php include("_last.html");
+<?php include("_last.php");
