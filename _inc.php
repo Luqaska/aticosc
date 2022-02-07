@@ -112,4 +112,3 @@ footer {
 	echo "$b[0]<a href=\"$element[1]\">$element[0]</a>$b[1]";
 } ?>
 </nav>
-<?php }
