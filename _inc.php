@@ -13,7 +13,7 @@ if(!isset($_SESSION["logged"])){
 $pages_nav = [
   ["Home", "index.php"]
 ]; ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE html>
 <html dir="ltr" lang="es">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
