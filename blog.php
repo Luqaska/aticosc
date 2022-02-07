@@ -1,4 +1,4 @@
-<?php $p="Home"; include("_inc.php"); ?>
+<?php $p="Logs"; include("_inc.php"); ?>
 <main>
 <h1>Bitácora de Lucas</h1>
 <iframe style="border:0" src="https://atilog.lu700.repl.co" width="100%" height="560px"></iframe>
