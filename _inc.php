@@ -7,7 +7,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="author" content="Luqaska" />
-<link rel="icon" href="/sarpado.png" />
+<link rel="icon" href="https://atico.0rg.us/sarpado.png" />
 <title><?= $p ?> | ATICO.0rg.us</title>
 <style>
 
@@ -89,7 +89,7 @@ footer {
 </head>
 <body>
 <header>
-	<h1><a href="index.php"><img src="/sarpado.png" id="sarpado" /><span id="text">ATICO<span style="font-size:medium">.0rg.us</span></span></a></h1>
+	<h1><a href="index.php"><img src="https://atico.0rg.us/sarpado.png" id="sarpado" /><span id="text">ATICO<span style="font-size:medium">.0rg.us</span></span></a></h1>
 </header>
 <nav>
 <?php foreach($pages_nav as $element){
