@@ -10,7 +10,6 @@
 <link rel="icon" href="https://atico.0rg.us/sarpado.png" />
 <title><?= $p ?> | ATICO.0rg.us</title>
 <style>
-
 /* Body */
 body {
 	text-align: justify;
@@ -74,6 +73,7 @@ footer {
 	color: black;
 	border-radius: 0 0 10px 10px;
 	padding: 3px 10px;
+	font-size: small;
 }
 
 /* Mobile */
