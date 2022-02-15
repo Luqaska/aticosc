@@ -1,5 +1,5 @@
 <footer>
-&copy;2022 "Luqaska"
+&copy;2022 Luqaska
 </footer>
 </body>
 </html>
