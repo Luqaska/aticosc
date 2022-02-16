@@ -1,6 +1,7 @@
 <?php $pages_nav = [
 	["Home", "index.php"],
-	["Logs", "blog.php"]
+	["Logs", "blog.php"],
+	["Muro", "board.php"]
 ]; ?>
 <!DOCTYPE html>
 <html dir="ltr" lang="es">
